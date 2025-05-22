@@ -1,0 +1,40 @@
+# 📘 The Introduction
+
+This vault is designed to work alongside an IntelliJ project and is also included in the Git repository associated with that project to track my Java learning progress. The name of the repository is **`HeadFirst-Java-3e`**. Inside the repository, there is a dedicated directory named **`TheNotebook`**, which integrates this vault for better organization and version control.
+
+## 🗂️ Organization
+
+ Currently, the vault contains only one directory — the home directory named **`TheNotebook`**. As my learning journey progresses, this vault will continue to evolve to improve organization and clarity.
+> The files in this vault are organized by chapter and contain my personal notes based on each chapter from the book **_Head First Java, 3rd Edition_** by Kathy Sierra, Bert Bates, and Trisha Gee (published by O'Reilly).
+
+## 🎯 Goal
+
+My goal on this journey is to build a strong and repeatable habit of **learning**, **recording**, **practicing**, **revising**, and **reinforcing**—until I master the Java programming language for back-end development.
+
+This vault will serve as my second brain, tracking not only what I’ve learned, but also **how** I’ve learned it. I’ll evolve this system as I grow more experienced.
+
+### 🛠️ Technologies in Scope
+
+The following tools and technologies are central to my learning plan. Each plays a distinct role in becoming a proficient back-end developer:
+
+| Tool             | Use Case                                                                      |
+| ---------------- | ----------------------------------------------------------------------------- |
+| **Core Java**    | Foundation of all Java development—syntax, OOP, collections, exceptions, etc. |
+| **UML**          | Unified Modeling Language for Designing and Planning Classes.                 |
+| **SQL**          | Managing and querying relational databases (e.g., PostgreSQL, MySQL).         |
+| **Git & GitHub** | Version control and collaboration; tracking progress over time.               |
+| **Maven**        | Dependency management and project build automation.                           |
+| **Spring Boot**  | Building production-ready, standalone web applications with Java.             |
+| **Kafka**        | Distributed event streaming for real-time data pipelines and microservices.   |
+| **Hibernate**    | Object-Relational Mapping (ORM) to manage database access in Java.            |
+| **AWS**          | Cloud deployment and infrastructure (EC2, S3, RDS, etc.) for scalable apps.   |
+
+#### Detailed Plan
+
+| Plan                                                      | Detail-1                                                                                                                               | Detail-2                                                                                                                                                                                                                                                                                                                                                             | Detail-3                                                                                                                                                                             | Detail-4                                 |
+|:--------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| **📌 Learning Phases **                                   | **Phase 1**: Core Java + Git + UML                                                                                                     | **Phase 2**: SQL + Maven + Spring Boot                                                                                                                                                                                                                                                                                                                               | **Phase 3**: Hibernate + REST APIs + Simple Projects                                                                                                                                 | **Phase 4**: Kafka + AWS + Microservices |
+| **📘 Learning Sources**                                   | **Books**: `Head First Java 3rd Edition`<br>                                                                                           | **Courses**: YouTube - 1. `Telusko - Complete Java Spring and Microservices Course`                                                                                                                                                                                                                                                                                  | **Web**: `Official-Docs + Baeldung`                                                                                                                                                  |                                          |
+| <br><br><br><br><br><br><br><br><br>**🧪 Practice Goals** | **Daily Goals**:<br><br>1. Design and Develop a `Class` per day.<br><br>2, Experiment with Various Problems and Try to Find Solutions. | **Weekly Goals**:<br><br>Design and Start Developing a `Tiny Console Application or Particular Module of the Application` per Week.<br><br>**Choices**:<br>1. Library Management System<br>2. Todo App<br>3. Calculator - Simple & Advanced<br>4. Consume and Test A Simple API using Postman<br>5. Hospital Information System<br>6. ATM Interface<br>7. Word Games | **Monthly Goals**:<br><br>Complete One Whole Application that I Have Started Working.<br><br>If Development Finished in Advance then Work On New Ideas for the Same Application.<br> |                                          |
+| <br><br>**📅 Milestones**                                 | Master **Core Java**, **Git** and **UML** and Build Simple **Console Applications** by **19 June 2025** Starting **23 May 2025**       | Master **Spring Boot, Microservices, HTTP, RESTful APIs** Develop and Deploy a Simple Application by **10 July 2925**<br>                                                                                                                                                                                                                                            | Master **Hibernate** within a **Week**                                                                                                                                               |                                          |
+| **🔁 Revision System**                                    | Create **Weekly Summary Notes**                                                                                                        | Develop Anki or Markdown Based **Flashcards**                                                                                                                                                                                                                                                                                                                        | Retake **Practice Problems** and **Read Code from Other's Projects**                                                                                                                 |                                          |
